@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/callbackmodal.tsx","./src/components/footer.tsx","./src/components/logo.tsx","./src/components/navbar.tsx","./src/components/waitlistsection.tsx","./src/context/appstatecontext.tsx","./src/data/courses.ts","./src/pages/coursedetailpage.tsx","./src/pages/homepage.tsx","./src/pages/loginpage.tsx"],"version":"5.6.3"}
